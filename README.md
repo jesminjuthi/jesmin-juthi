@@ -1,8 +1,7 @@
 <div align="center">
 <img width="100%" height = "100%" src="https://github.com/jesmin-juthi/banner_img/blob/main/JESMIN%20JUTHI.png?raw=true" alt="cover" />
 </div>
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>, I'm Jesmin Juthi</h1>
+<h1 align="center">Hello there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> , I'm Jesmin Juthi</h1>
 <h3 align="center">Full Stack Web Developer and WordPress Expert</h3>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
