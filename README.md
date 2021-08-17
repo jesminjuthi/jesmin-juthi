@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jesmin Juthi</h1>
 <h3 align="center">Full Stack Web Developer and WordPress Expert</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jesmin-juthi&label=Profile%20views&color=0e75b6&style=flat" alt="jesmin-juthi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jesmin-juthi" alt="jesmin-juthi" /></a> </p>
-
 - 🌱 I’m currently learning **React, Laravel and WordPress Development**
 
 - 👀 I’m interested in learning new things!
