@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **related to web design and development**
 
-- 📫 How to reach me **contact@juthijesmin.com**
+- 📫 How to reach me **live:jesminjuthi7**
 
 - 📄 Know about my experiences [https://thesathil.xyz](https://thesathil.xyz)
 
