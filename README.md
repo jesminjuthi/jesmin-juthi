@@ -1,6 +1,6 @@
 <div align="center">
 <img width="100%" height = "100%" src="https://raw.githubusercontent.com/jesmin-juthi/banner_img/main/_Jesmin%20Juthi%20.gif" alt="cover" />
-[![](https://visitcount.itsvg.in/api?id=jesmin-juthi&icon=3&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=jesmin-juthi&label=Profile%20Views&color=5&pretty=true)](https://visitcount.itsvg.in)
 </div>
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> , I'm Jesmin Juthi</h1>
 <h3 align="center">Full Stack Web Developer and WordPress Expert</h3>
