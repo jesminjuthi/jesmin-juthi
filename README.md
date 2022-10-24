@@ -1,6 +1,5 @@
 <div align="center">
 <img width="100%" height = "100%" src="https://raw.githubusercontent.com/jesmin-juthi/banner_img/main/_Jesmin%20Juthi%20.gif" alt="cover" />
-[![](https://visitcount.itsvg.in/api?id=jesmin-juthi&label=Profile%20Views&color=5&pretty=true)](https://visitcount.itsvg.in)
 </div>
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> , I'm Jesmin Juthi</h1>
 <h3 align="center">Full Stack Web Developer and WordPress Expert</h3>
@@ -35,6 +34,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=jesmin-juthi&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jesmin-juthi&theme=ayu-mirage&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jesmin-juthi&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+[![](https://visitcount.itsvg.in/api?id=jesmin-juthi&label=Profile%20Views&color=5&pretty=true)](https://visitcount.itsvg.in)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
