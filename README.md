@@ -24,6 +24,7 @@
   
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/jesminjuthi) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jesmin.juthi.54) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juthi_jesmin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jesminjuthi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/juthijesmin) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/jesminjuthi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jesmin_juthi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/JesminJuthi) 
 
+
 ### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Tech:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -63,11 +64,11 @@
 ### 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jesmin-juthi&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br />
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jesmin-juthi&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true" />
-<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=jesmin-juthi&theme=ayu-mirage&hide_border=false" /> <br />
+<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=jesmin-juthi&theme=ayu-mirage&hide_border=false" />
 
-
-### ✍️ Random Dev Quote:
+### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
