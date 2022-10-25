@@ -66,12 +66,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jesmin-juthi&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jesmin-juthi&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true" />
-<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=jesmin-juthi&theme=ayu-mirage&hide_border=false" /> <br>
+<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=jesmin-juthi&theme=ayu-mirage&hide_border=false" />
+
+<br clear="both">
 
 ### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jesmin-juthi&label=Profile%20Views&color=5&pretty=true)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=jesmin-juthi&icon=0&color=10)](https://visitcount.itsvg.in)
