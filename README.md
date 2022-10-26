@@ -67,6 +67,8 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jesmin-juthi&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true" />
 <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=jesmin-juthi&theme=ayu-mirage&hide_border=false" />
+<br clear="both">
+<img src="https://activity-graph.herokuapp.com/graph?username=jesmin-juthi&custom_title=Jesmin%27s%20Contribution%20Graph&bg_color=000714&color=efc97b&line=efc97b&point=00e1ff&area=true&hide_border=true" />
 
 <br clear="both">
 
