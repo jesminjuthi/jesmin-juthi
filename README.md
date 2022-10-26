@@ -61,16 +61,30 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
 
-### 📊 GitHub Stats:
+### 📊 My Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jesmin-juthi&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br />
+<p align="left">
+  <a href="https://juthijesmin.com">
+    <img width="35.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesmin-juthi&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    <img width="63.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jesmin-juthi&theme=tokyonight" />
+  </a>
+</p>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jesmin-juthi&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true" />
-<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=jesmin-juthi&theme=ayu-mirage&hide_border=false" />
+<p align="left">
+  <a href="https://juthijesmin.com/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jesmin-juthi&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jesmin-juthi&theme=ayu-mirage&hide_border=false" />
+  </a>
+</p>
+
+<a href="https://juthijesmin.com/">
+    <img src="https://activity-graph.herokuapp.com/graph?username=jesmin-juthi&custom_title=Jesmin%27s%20Contribution%20Graph&bg_color=1f2430&color=efc97b&line=efc97b&point=00e1ff&area=true&hide_border=false" />
+</a>
+
+
+
 <br clear="both">
-<img src="https://activity-graph.herokuapp.com/graph?username=jesmin-juthi&custom_title=Jesmin%27s%20Contribution%20Graph&bg_color=000714&color=efc97b&line=efc97b&point=00e1ff&area=true&hide_border=true" />
 
-<br clear="both">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
