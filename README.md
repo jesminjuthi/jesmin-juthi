@@ -10,9 +10,9 @@
 
 - 👀 I’m interested in learning new things!
 
-- 👨‍💻 All of my projects are available at [https://juthijesmin.com](https://juthijesmin.com)
+- 👨‍💻 Some of my projects are available at [https://jesmin-juthi.github.io/portfolio-website-list/](https://jesmin-juthi.github.io/portfolio-website-list/)
 
-- 📝 I regularly write articles on [https://juthijesmin.com](https://juthijesmin.com)
+- 👀 All Social Links [https://linktr.ee/jesminjuthi](https://linktr.ee/jesminjuthi)
 
 - 💬 Ask me about Web Design, WordPress, Shopify, C Programming, and so on!
 
