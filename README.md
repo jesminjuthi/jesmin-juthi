@@ -59,20 +59,20 @@
 ### 📊 My Stats:
 
 <p align="left">
-  <a href="https://juthijesmin.com">
+  <a href="https://bento.me/jesminjuthi">
     <img width="35.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesmin-juthi&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
     <img width="63.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jesmin-juthi&theme=tokyonight" />
   </a>
 </p>
 
 <p align="left">
-  <a href="https://juthijesmin.com/">
+  <a href="https://linktr.ee/jesminjuthi">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jesmin-juthi&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jesmin-juthi&theme=ayu-mirage&hide_border=false" />
   </a>
 </p>
 
-<a href="https://juthijesmin.com/">
+<a href="https://linktr.ee/jesminjuthi">
     <img src="https://activity-graph.herokuapp.com/graph?username=jesmin-juthi&custom_title=Jesmin%27s%20Contribution%20Graph&bg_color=1f2430&color=efc97b&line=efc97b&point=00e1ff&area=true&hide_border=false" />
 </a>
 
