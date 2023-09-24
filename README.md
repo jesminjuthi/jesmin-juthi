@@ -76,10 +76,7 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=jesmin-juthi&custom_title=Jesmin%27s%20Contribution%20Graph&bg_color=1f2430&color=efc97b&line=efc97b&point=00e1ff&area=true&hide_border=false" />
 </a>
 
-
-
 <br clear="both">
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
