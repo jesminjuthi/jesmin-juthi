@@ -10,7 +10,7 @@
 
 - 👀 I’m interested in learning new things!
 
-- 👨‍💻 Some of my projects are available at [https://jesmin-juthi.github.io/portfolio-website-list/](https://jesmin-juthi.github.io/portfolio-website-list/)
+- 👨‍💻 Some of my projects are available at [https://jesminjuthi.github.io/portfolio-website-list/](https://jesminjuthi.github.io/portfolio-website-list/)
 
 - 👀 All Social Links [https://linktr.ee/jesminjuthi](https://linktr.ee/jesminjuthi)
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **live:jesminjuthi7**
 
-- 📄 Know about my experiences [https://jesmin-juthi.github.io/portfolio-website-list/](https://jesmin-juthi.github.io/portfolio-website-list/)
+- 📄 Know about my experiences [https://jesminjuthi.github.io/portfolio-website-list/](https://jesminjuthi.github.io/portfolio-website-list/)
 
 ### 🌐 Connect with me: 
   
